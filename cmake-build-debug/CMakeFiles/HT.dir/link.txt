@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -static CMakeFiles/HT.dir/examples/main_HT.c.o CMakeFiles/HT.dir/NOT.c.o CMakeFiles/HT.dir/src/HtList.c.o  -o HT   -L/home/Desktop/desktop/YSBD/BF_lib/lib 

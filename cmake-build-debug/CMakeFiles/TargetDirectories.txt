@@ -1,0 +1,4 @@
+/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/CMakeFiles/HT.dir
+/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/CMakeFiles/YSBD.dir

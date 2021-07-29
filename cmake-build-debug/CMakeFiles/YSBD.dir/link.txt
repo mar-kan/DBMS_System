@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -static CMakeFiles/YSBD.dir/examples/main_HP.c.o CMakeFiles/YSBD.dir/src/HP.c.o CMakeFiles/YSBD.dir/src/HpList.c.o CMakeFiles/YSBD.dir/src/utilities.c.o CMakeFiles/YSBD.dir/src/HT.c.o  -o YSBD   -L/home/Desktop/desktop/YSBD/BF_lib/lib  -Wl,-rpath,/home/Desktop/desktop/YSBD/BF_lib/lib -Wl,-Bstatic -lBF_64 -Wl,-Bdynamic 

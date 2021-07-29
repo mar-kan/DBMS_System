@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="YSBD"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/marianna/Desktop/desktop/YSBD/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/marianna/Desktop/desktop/YSBD/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HT">
+				<Option output="/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/HT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marianna/Desktop/desktop/YSBD/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 HT"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HT/fast">
+				<Option output="/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/HT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marianna/Desktop/desktop/YSBD/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 HT/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/marianna/Desktop/desktop/YSBD/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="YSBD">
+				<Option output="/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/YSBD" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marianna/Desktop/desktop/YSBD/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 YSBD"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="YSBD/fast">
+				<Option output="/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/YSBD" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/marianna/Desktop/desktop/YSBD/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 YSBD/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/marianna/Desktop/desktop/YSBD/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/NOT.c">
+			<Option target="HT"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/examples/main_HP.c">
+			<Option target="YSBD"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/examples/main_HT.c">
+			<Option target="HT"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/include/BF.h">
+			<Option target="YSBD"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/include/HP.h">
+			<Option target="YSBD"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/include/HP_info.h">
+			<Option target="YSBD"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/include/HT_info.h">
+			<Option target="HT"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/include/HpList.h">
+			<Option target="YSBD"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/include/HtList.h">
+			<Option target="HT"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/include/NOT.h">
+			<Option target="HT"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/include/Record.h">
+			<Option target="YSBD"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/include/utilities.h">
+			<Option target="YSBD"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/src/HP.c">
+			<Option target="YSBD"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/src/HT.c">
+			<Option target="YSBD"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/src/HpList.c">
+			<Option target="YSBD"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/src/HtList.c">
+			<Option target="HT"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/src/utilities.c">
+			<Option target="YSBD"/>
+		</Unit>
+		<Unit filename="/home/marianna/Desktop/desktop/YSBD/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
