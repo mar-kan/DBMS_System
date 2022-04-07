@@ -1,4 +1,4 @@
-# DBMS_1
+# DBMS_System
 A database management system that uses block files written in C. 
 
 There are two implementations: 
